@@ -1,7 +1,5 @@
 module LogoUtil exposing (getLogoParts, sipString)
 
-import Debug exposing (log)
-
 
 sipString : String -> List String
 sipString ogString =
