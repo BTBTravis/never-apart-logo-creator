@@ -5,6 +5,9 @@ script to generate similar logos.
 
 http://never-apart-logo-creator.s3-website.eu-central-1.amazonaws.com/
 
+## Screenshot
+
+![screenshot](/never_apart.png)
 
 
 ## DEV
